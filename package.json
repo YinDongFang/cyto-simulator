@@ -1,0 +1,32 @@
+{
+  "name": "cyto-simulator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YinDongFang/cyto-simulator.git"
+  },
+  "author": "YinDongFang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YinDongFang/cyto-simulator/issues"
+  },
+  "homepage": "https://github.com/YinDongFang/cyto-simulator#readme",
+  "dependencies": {
+    "cross-env": "^7.0.3",
+    "debug": "^4.3.4",
+    "is-bool": "^0.0.3",
+    "is-number": "^7.0.0",
+    "is-object": "^1.0.2",
+    "jquery": "^3.7.1",
+    "koa": "^2.15.2",
+    "lazy-store-loader": "^2.0.3",
+    "querystring": "^0.2.1",
+    "react": "^18.2.0",
+    "uuid": "^9.0.1"
+  }
+}
